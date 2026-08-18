@@ -17,8 +17,7 @@ C: 용량을 확보하는 Windows 유틸입니다.
 ## 필요한 환경
 
 - Windows 10 또는 Windows 11 (64비트)
-- [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Windows App Runtime 1.7](https://learn.microsoft.com/windows/apps/windows-app-sdk/downloads)
+- .NET 8과 Windows App Runtime은 zip에 들어 있습니다. 따로 설치하지 않아도 됩니다.
 
 ## 기능
 
